@@ -17,6 +17,10 @@ export const Pages: DocsConfig[] = [
     title: "Faculty",
     path: "/faculty",
   },
+  {
+    title: "Feedback",
+    path: "/feedback",
+  },
 ];
 
 export const docsConfig: DocsConfig[] = [
@@ -34,6 +38,10 @@ export const docsConfig: DocsConfig[] = [
       {
         title: "Faculty",
         path: "/faculty",
+      },
+      {
+        title: "Feedback",
+        path: "/feedback",
       },
     ],
   },
